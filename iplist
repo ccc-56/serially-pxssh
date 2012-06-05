@@ -1,0 +1,3 @@
+#ip username userpasswd rootpasswd
+10.10.10.2 dongzh 111111 aaaaaa
+#10.10.10.8 dongzh 111111 aaaaaa
